@@ -1,0 +1,40 @@
+body {
+  background-color: green;
+  height: 100%;
+}
+h1 {
+  font-size: 100px;
+  text-align: center;
+}
+.between {
+  font-size: 30px;
+}
+.guess {
+  padding: 30px;
+}
+.btn-again {
+  font-size: 50px;
+  padding: 20px;
+}
+.check {
+  font-size: 30px;
+}
+.btn-check {
+  font-size: 50px;
+  text-align: center;
+  size: 50px;
+}
+.message {
+  font-size: 70px;
+  text-align: right;
+  color: hotpink;
+}
+.label-score {
+  font-size: 30px;
+  text-align: right;
+}
+
+.label-highest-score {
+  font-size: 30px;
+  text-align: right;
+}
